@@ -1,0 +1,33 @@
+body{
+    
+    background-color: rgb(231, 228, 222);
+    font-size: 20px;
+    font-style: oblique;
+    position: absolute;
+    top:5%;
+    left:10%;
+    
+}
+img{
+    float: right;
+    border-radius:50%;
+    width:200px;
+    margin-left: 25px;
+    
+}
+span{
+    float: left;
+    margin-right: 25px;
+}
+
+h1{
+    color: rgb(54, 187, 54);
+}
+h2{
+    color: rgb(54, 187, 54);
+}
+
+
+footer{
+    text-align: center;
+}
